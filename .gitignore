@@ -1,0 +1,12 @@
+.classpath
+.project
+*.svn
+/target
+/build
+*.settings
+/target/
+resultado-local.html
+automacao.lock
+.pmd
+.sonar/
+sonar-project.properties
